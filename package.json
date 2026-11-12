@@ -338,7 +338,7 @@
     "cross-env": "^7.0.3",
     "csp-parse": "0.0.2",
     "dedent": "^1.0.1",
-    "eslint": "9.27.0",
+    "eslint": "10.0.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-config-standard": "17.1.0",
     "eslint-import-resolver-typescript": "^3.6.1",
